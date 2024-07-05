@@ -1,1 +1,1 @@
-# EEG-Servo-Motor-
+# EEG-Servo-Motor
